@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">List Management Exercice (rotation)</string>
+    <string name="main_activity_title">My contacts</string>
+    <string name="main_activity_btnAdd_label">Add</string>
+    <string name="main_activity_btnDel_label">Delete</string>
+    <string name="alertDialogDel_title">\tDeletion of selected or all contacts</string>
+    <string name="alertDialogDelAll_msg">\nYou\'re going to delete all contacts ! Please confirm. \n\nNote : You can also select only fiew of them to be deleted.</string>
+    <string name="alertDialogDelSelection_msg">\nYou\'re going de delete some contacts : \n"</string>
+    <string name="alertDialogDelNothing_msg">there\'s actually no contact (nothing to del)</string>
+    <string name="dialogAdd_name_placeholder">the name</string>
+    <string name="dialogAdd_firstname_placeholder">the firstname</string>
+    <string name="dialogAdd_phone_placeholder">the phone number</string>
+    <string name="dialogAdd_title">add contact</string>
+    <string name="contact_already_exists">this phonenumber already exists</string>
+    <string name="alertDialogDel_btnDel_label">Delete</string>
+    <string name="alertDialog_btnCancel_label">Cancel</string>
+    <string name="dialogAdd_btnAdd_label">Add</string>
+</resources>

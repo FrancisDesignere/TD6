@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice Gestion de Liste (rotation)</string>
+    <string name="main_activity_title">Mes contacts</string>
+    <string name="main_activity_btnAdd_label">Ajouter</string>
+    <string name="main_activity_btnDel_label">Retirer</string>
+    <string name="alertDialogDel_title">\tSuppression d\'un ou plusieurs contact(s)</string>
+    <string name="alertDialogDelAll_msg">\nVous allez supprimer tous les contacts ! Veuillez confirmer. \n\nNB: Vous ne pouvez également n\'en sélectionner que quelques-uns à supprimer.</string>
+    <string name="alertDialogDelSelection_msg">\nVous allez supprimer le(s) contact(s) selectionné, au nombre de : \n"</string>
+    <string name="alertDialogDelNothing_msg">Il n\'y a actuellement aucun message (rien à supprimer)</string>
+    <string name="dialogAdd_name_placeholder">nom</string>
+    <string name="dialogAdd_firstname_placeholder">prénom</string>
+    <string name="dialogAdd_phone_placeholder">num. téléphone</string>
+    <string name="dialogAdd_title">ajout de contact</string>
+    <string name="contact_already_exists">Num tél déjà existant</string>
+    <string name="alertDialogDel_btnDel_label">Supprimer</string>
+    <string name="alertDialog_btnCancel_label">Annuler</string>
+    <string name="dialogAdd_btnAdd_label">Ajouter</string>
+</resources>
